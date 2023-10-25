@@ -1,0 +1,16 @@
+body {
+
+     background-color: rosybrown;
+}
+
+
+h1 {
+    font-size: 25px;
+    text-align: center;
+    color: brown(139, 33, 120);
+}
+p {
+     text-align: center;
+     color: red;
+     font-size: 20px;
+}
